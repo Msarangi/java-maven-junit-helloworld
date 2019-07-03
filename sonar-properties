@@ -1,0 +1,6 @@
+sonar.projectKey=94371sarangi
+sonar.projectName=94371sarangi
+sonar.java.binaries=.
+sonar.java.sources=.
+sonar.sources=.
+sonar.sourceEncoding=UTF-8
